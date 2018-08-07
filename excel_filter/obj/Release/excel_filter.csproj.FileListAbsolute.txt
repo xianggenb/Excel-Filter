@@ -1,0 +1,11 @@
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\bin\Release\excel_filter.exe.config
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\bin\Release\excel_filter.exe
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\bin\Release\excel_filter.pdb
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\Release\excel_filter.Form1.resources
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\Release\excel_filter.Properties.Resources.resources
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\Release\excel_filter.csproj.GenerateResource.Cache
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\Release\excel_filter.exe
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\Release\excel_filter.pdb
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\Release\excel_filter.csprojResolveAssemblyReference.cache
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\Release\excel_filter.child_form.resources
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\Release\excel_filter.Form2.resources

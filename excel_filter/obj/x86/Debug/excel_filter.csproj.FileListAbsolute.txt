@@ -1,0 +1,8 @@
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\bin\x86\Debug\excel_filter.exe.config
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\bin\x86\Debug\excel_filter.exe
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\bin\x86\Debug\excel_filter.pdb
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\x86\Debug\excel_filter.Form1.resources
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\x86\Debug\excel_filter.Properties.Resources.resources
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\x86\Debug\excel_filter.csproj.GenerateResource.Cache
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\x86\Debug\excel_filter.exe
+C:\Users\xxiang\documents\visual studio 2013\Projects\excel_filter\excel_filter\obj\x86\Debug\excel_filter.pdb
